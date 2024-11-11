@@ -29,7 +29,7 @@ I am Herin Soni, a Computer Engineering student at L.D. College of Engineering a
 
 - :zap: Active problem-solver on HackerRank and organizer of tech world with the Google Developer Club.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-herin-soni-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/herin-soni)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Herin%20Soni-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/herin-soni)
 
 ---
 
