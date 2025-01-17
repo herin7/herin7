@@ -53,7 +53,6 @@ I am Herin Soni, a Computer Engineering student at L.D. College of Engineering a
 ### :fire: My Stats :
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=herin7&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herin7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
