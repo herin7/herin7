@@ -27,7 +27,7 @@ I am Herin Soni, a Computer Engineering student at L.D. College of Engineering a
   
 - :seedling: Currently enhancing my skills in Django REST framework, Google Cloud & C++.
 
-- :zap: Active problem-solver on HackerRank and organizer of tech world with the Google Developer Club.
+- :zap: Active problem-solver on Leetcode and codeforces.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Herin%20Soni-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/herinsoni)
 
